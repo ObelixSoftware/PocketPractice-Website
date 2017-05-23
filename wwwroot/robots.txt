@@ -1,0 +1,4 @@
+# Bluegrass Digital Staging Enviroment Robots Exclusion Protocol
+# Do not copy this file to the live enviroment!
+User-agent: *
+Disallow: /
